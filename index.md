@@ -1,3 +1,12 @@
+#Matthew Iskandar's First CS193 Homework
+
+- One thing I _really_ like about this class is the **simplicity** of the first homework assignment.
+- Another enjoyable aspect is the **Class Location**. Being at the entrance of _WALC_ is very convenient.
+- Last but not least, the lecturers are fantastic and humorous.
+
+![Pineapple](https://upload.wikimedia.org/wikipedia/commons/7/74/%E0%B4%95%E0%B5%88%E0%B4%A4%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%95.jpg)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
