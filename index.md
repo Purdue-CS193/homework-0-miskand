@@ -1,4 +1,4 @@
-#Matthew Iskandar's First CS193 Homework
+# Matthew Iskandar's First CS193 Homework
 
 - One thing I _really_ like about this class is the **simplicity** of the first homework assignment.
 - Another enjoyable aspect is the **Class Location**. Being at the entrance of _WALC_ is very convenient.
